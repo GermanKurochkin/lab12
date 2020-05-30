@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab12.Point&lt;T&gt;">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListOne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab12.ListOne&lt;T&gt;">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Interface Name="lab12.ListOne&lt;T&gt;.ICloneable" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ListOne.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAABACBAAAACBAAAEAAAAEAAAAABAAABA=</HashCode>
+      <FileName>ListOne.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab12.PointTwo&lt;T&gt;">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAABAAEAAAAAAAAAA=</HashCode>
+      <FileName>ListTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab12.ListTwo&lt;T&gt;">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAACABAACAAAAACBAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListTwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab12.MyStack&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Interface Name="lab12.MyStack&lt;T&gt;.ICloneable" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyStack.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAAAAAAAAQAAAEEAAAEAAIAABAgABA=</HashCode>
+      <FileName>MyStack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab12.PointTree&lt;T&gt;">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAIABAAAAAAAAAAgAA=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab12.Tree&lt;T&gt;">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAEAAADAABQAAAABCAAEEAAAGAAABABAAAAI=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
